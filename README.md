@@ -4,7 +4,7 @@
 
 <h1 align="center">Aprenda PHP</h1>
 
-<p align="center">Central de conhecimento sobre PHP.</p>
+<p align="center">Agrupamento de link's sobre PHP</p>
 
 <a id="user-content-Índice" class="anchor" href="#Índice" aria-hidden="true"></a>
 
@@ -36,13 +36,13 @@
 
 ## Mais sobre
 
-* [WordPress](https://github.com/learnbr/wordpress)
-
+* [WordPress - LearnBR](https://github.com/learnbr/wordpress)
+* [HTML e CSS - LearnBR](https://github.com/learnbr/html-css)
 
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/javascript/graphs/contributors).
+Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
 [![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) 
 --- |
