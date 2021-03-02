@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
 ![Let's go to Learn](https://media.giphy.com/media/l3dj09hpsfuYkijDi/giphy.gif)
-
-## Sobre
 
 learnbr é um projeto brasileiro para ajudar desenvolvedores na busca de conteúdo agrupando links sobre diferentes tecnoligias pelos assuntos:
 
