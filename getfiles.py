@@ -2,13 +2,13 @@ import requests
 
 
 ## get content
-def getContent(url):
-    content = requests.get(url)
+def getContent(name):
+    content = requests.get('https://raw.githubusercontent.com/learnbr/' + name + '/master/README.md')
     return content
 
 ## write content
 def writeContent(prefix, fileName, content):
-    file = open(prefix + '2019-10-15-'+ fileName +'.markdown','a')
+    file = open(prefix + '2021-01-01-'+ fileName +'.markdown','a')
     file.write(content.text)
     file.close()
 
@@ -20,20 +20,18 @@ def mountPosts(postContents):
 
 
 contents = [
-    'https://raw.githubusercontent.com/learnbr/javascript/master/README.md', 
-    'https://raw.githubusercontent.com/learnbr/javascript/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/python/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/html-css/master/README.md', 
-    'https://raw.githubusercontent.com/learnbr/wordpress/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/swift/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/java/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/kotlin/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/rubyonrails/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/go/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/php/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/elixir/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/go/master/README.md',
-    'https://raw.githubusercontent.com/learnbr/go/master/README.md'
+    'javascript', 
+    'python',
+    'php',
+    'html-css', 
+    'wordpress',
+    'swift',
+    'java',
+    'rubyonrails',
+    'go',
+    'php',
+    'elixir',
+    'go',
 ]
 
 
