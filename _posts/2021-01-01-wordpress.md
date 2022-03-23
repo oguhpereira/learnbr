@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: wordpress wordpress-plugin wordpress-development wordpress-theme woocommerce wordpress-site 
 ---
 <p align="center">
 <img src="https://github.com/learnbr/wordpress/blob/master/logo.png?raw=true" width="500" alt="Aprenda WordPress">

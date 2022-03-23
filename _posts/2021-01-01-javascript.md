@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: react nodejs javascript vuejs angular node react-native javascript-tests node-js javascript-es6 
 ---
 <p align="center">
 	<img width="100px" src="https://raw.githubusercontent.com/learnbr/javascript/master/logo.png" alt="Aprenda Javascript" style="width:100px;">
@@ -16,7 +15,7 @@ categories: react nodejs javascript vuejs angular node react-native javascript-t
 	<a href="#mortar_board-cursos">Cursos</a> •
 	<a href="#book-livros">Livros</a> •
 	<a href="#newspaper-blogs">Blogs</a> •
-	<a href="#video_camera-palestras-v%C3%ADdeos">Palestras</a> •
+	<a href="#video_camera-palestras">Palestras</a> •
 	<a href="#eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
@@ -29,11 +28,6 @@ categories: react nodejs javascript vuejs angular node react-native javascript-t
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
 [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) | [Curso em Vídeo](https://www.cursoemvideo.com/sucesso/) | Básico | JavaScript Moderno | Gratuito
-[JavaScript](https://rocketseat.com.br/starter/curso-gratuito-javascript) | [Rocketseat](https://rocketseat.com.br/) | Básico | Javascript | Gratuito
-[JavaScript ES6+](https://rocketseat.com.br/starter/curso-gratuito-javascript-es6) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | Javascript | Gratuito
-[NodeJS](https://rocketseat.com.br/starter/curso-gratuito-nodejs) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
-[ReactJS](https://rocketseat.com.br/starter/curso-gratuito-reactjs) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
-[React Native](https://rocketseat.com.br/starter/curso-gratuito-react-native) | [Rocketseat](https://rocketseat.com.br/) | Intermediário | NodeJS | Gratuito
 [Lógica de programação I: Os primeiros programas com Javascript e HTML](https://www.alura.com.br/curso-online-logica-programacao-javascript-html) | [Alura](https://www.alura.com.br) | Básico | Lógica de Programação | Pago
 [JavaScript: Programando na linguagem da web](https://www.alura.com.br/curso-online-javascript-programando-na-linguagem-web) | [Alura](https://www.alura.com.br) | Básico | Introdução ao Javascript | Pago
 [JavaScript avançado I: ES6, orientação a objetos e padrões de projetos](https://www.alura.com.br/curso-online-javascript-es6-orientacao-a-objetos-parte-1) | [Alura](https://www.alura.com.br) | Intermediário | POO em Javascript | Pago
@@ -62,7 +56,7 @@ Blog | Principal(is) Autor(es) | Idioma
 
 [Ir para o índice](#Índice)
 
-## :video_camera: Palestras (vídeos)
+## :video_camera: Palestras
 
 Título | Palestrante | Evento | 
 :-- | :-- | :--
