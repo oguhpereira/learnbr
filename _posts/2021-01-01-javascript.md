@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: react nodejs javascript vuejs angular node react-native javascript-tests node-js javascript-es6
 ---
 <p align="center">
 	<img width="100px" src="https://raw.githubusercontent.com/learnbr/javascript/master/logo.png" alt="Aprenda Javascript" style="width:100px;">
