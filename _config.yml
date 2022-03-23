@@ -59,7 +59,6 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
-  showPicker: false
 
   social_links:
     github:  learnbr
