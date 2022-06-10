@@ -1,0 +1,23 @@
+title: Learnbr
+description: Um projeto criado para ajudar no agrupamento de conteúdos de tenologia.
+baseurl: ""
+url: "https://learnbr.github.io/"
+github_username:  "learnbr"
+permalink: /:title/
+
+# Build settings
+remote_theme: thelehhman/texture
+plugins:
+  - jekyll-feed
+  - jemoji
+  - jekyll-seo-tag
+
+texture:
+  title: Learn BR
+  tagline: Um projeto criado para ajudar no agrupamento de conteúdos de tenologia.
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: true
+
+  social_links:
+    github:  learnbr

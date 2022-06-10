@@ -1,0 +1,23 @@
+---
+layout: page
+---
+{%- if site.posts.size > 0 -%}
+<ul class="posts">
+	{%- for post in site.posts reversed -%}
+	<li>
+		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+		<div class="post-meta">
+			<a class="post-link" href="{{ post.url | relative_url }}">
+				<h2 class="post-title">{{ post.title | escape }}</h2>
+			</a>
+		</div>
+		<div class="post">
+			{%- if site.show_excerpts -%}
+			{{ post.excerpt }}
+			{%- endif -%}
+		</div>
+	</li>
+	{%- endfor -%}
+</ul>
+{%- endif -%}
+

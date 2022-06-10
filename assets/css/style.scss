@@ -1,0 +1,13 @@
+---
+---
+
+@import "theme";
+
+// Textures
+.texture-black {
+    background-image: url('{{ site.baseurl }}/assets/textures/black.jpg');
+
+    h2 {
+        color: #999;
+    }
+}
