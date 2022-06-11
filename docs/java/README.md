@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/oguhpereira/learnbr/tree/main/docs/javalogo.png" alt="Aprenda Java" width="350px">
+	<img src="https://raw.githubusercontent.com/oguhpereira/learnbr/tree/main/docs/java/logo.png" alt="Aprenda Java" width="350px">
 </p>
 
 <h1 align="center">Aprenda Java</h1>
