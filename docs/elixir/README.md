@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/learnbr/elixir/master/logo.png" alt="Aprenda Elixir" style="width:100px;">
+	<img src="https://raw.githubusercontent.com/oguhpereira/learnbr/tree/main/docs/elixirlogo.png" alt="Aprenda Elixir" style="width:100px;">
 </p>
 
 <h1 align="center">Aprenda Elixir</h1>
@@ -63,7 +63,6 @@ Nome da Comunidade | Tipo | Idioma
 Nome do Podcast | Idioma
 :-- | :--:
 [Running in Production](https://runninginproduction.com/tags/elixir) | Inglês
-[Elixir em foco](https://github.com/learnbr/elixir) | Português
 
 ## Mais Sobre
 

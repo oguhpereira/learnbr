@@ -24,7 +24,7 @@ template = file.read()
 
 ## get content
 def getContent(name):
-    content = requests.get('https://raw.githubusercontent.com/learnbr/' + name + '/master/README.md')
+    content = requests.get('https://raw.githubusercontent.com/oguhpereira/learnbr/tree/main/docs/' + name + 'README.md')
     return content
 
 ## write content
@@ -36,7 +36,7 @@ def writeContent(prefix, fileName, content):
 def mountPosts(postContents):
     for post in postContents:
         content = getContent(post)
-        fileName = post.replace('https://raw.githubusercontent.com/learnbr/','').replace('/master/README.md','')
+        fileName = post.replace('https://raw.githubusercontent.com/oguhpereira/learnbr/tree/main/docs/','').replace('README.md','')
         writeContent('../_posts/', fileName, content)
 
 

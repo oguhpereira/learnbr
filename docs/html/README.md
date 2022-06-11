@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" alt="Aprenda HTML/CSS" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/oguhpereira/learnbr/tree/main/docs/html-csslogo.png" alt="Aprenda HTML/CSS" style="max-width:100%;">
 </p>
 
 <h1 align="center">Aprenda HTML/CSS</h1>
@@ -134,8 +134,6 @@ Nome do Podcast | Idioma
 
 ## Mais Sobre
 
-* [Javascript](https://github.com/learnbr/javascript)
-* [PHP](https://github.com/learnbr/php)
 * [Protocolo Alterado - @obetomuniz](https://www.youtube.com/user/obetomuniz)
 
 

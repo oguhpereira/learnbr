@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/learnbr/wordpress/blob/master/logo.png?raw=true" width="500" alt="Aprenda WordPress">
+<img src="https://github.com/oguhpereira/learnbr/tree/main/docs/wordpress/bloblogo.png?raw=true" width="500" alt="Aprenda WordPress">
 </p>
 <h1 align="center">Aprenda WordPress</h1>
 <p align="center">Central de conhecimento sobre desenvolvimento WordPress </p>
@@ -86,15 +86,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 | [WordPress Vitória](https://www.meetup.com/WordPressVix/)    | Meetup | Português |
 
 [Ir para o índice](#Índice)
-
-
-## Mais Sobre
-
-* [PHP](https://github.com/learnbr/php)
-* [HTML e CSS](https://github.com/learnbr/html-css)
-* [Javascript](https://github.com/learnbr/javascript)
-* [WordPress.tv](https://wordpress.tv/language/portugueseportugues/)  
-* [Felipe Elia WP](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ/)
 
 ## Time
 
