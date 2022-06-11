@@ -1,5 +1,5 @@
 <p align="center">
-<img width="150px" src="https://raw.githubusercontent.com/oguhpereira/learnbr/blob/main/docs/pythonlogo.png" alt="Aprenda Python" >
+<img width="150px" src="https://raw.githubusercontent.com/oguhpereira/learnbr/main/docs/pythonlogo.png" alt="Aprenda Python" >
 </p>
 
 <h1 align="center">Aprenda Python</h1>

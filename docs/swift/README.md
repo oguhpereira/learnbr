@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/oguhpereira/learnbr/blob/main/docs/swift/logo.png" alt="Aprenda Swift" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/oguhpereira/learnbr/main/docs/swift/logo.png" alt="Aprenda Swift" style="max-width:100%;">
 </p>
 
 <h1 align="center">Aprenda Swift</h1>

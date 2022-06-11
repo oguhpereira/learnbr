@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="100px" src="https://raw.githubusercontent.com/oguhpereira/learnbr/blob/main/docs/javascript/logo.png" alt="Aprenda Javascript" style="width:100px;">
+	<img width="100px" src="https://raw.githubusercontent.com/oguhpereira/learnbr/main/docs/javascript/logo.png" alt="Aprenda Javascript" style="width:100px;">
 </p>
 
 <h1 align="center">Aprenda Javascript</h1>
