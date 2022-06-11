@@ -117,14 +117,6 @@ Nome do Podcast | Idioma
 [Ir para o índice](#Índice)
 
 
-## Time
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Felipe Mendes](https://github.com/felipemendes)
-* [Melissa Barbosa](https://github.com/mellbarbosa)
-
-
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
 	©

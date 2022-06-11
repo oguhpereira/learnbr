@@ -19,3 +19,13 @@ Contribuir para que o caminho de aprendizado de uma tecnologia fácil e direcion
 - [Ruby](https://github.com/oguhpereira/learnbr/tree/main/docs/rubyonrails)
 - [Swift](https://github.com/oguhpereira/learnbr/tree/main/docs/swift)
 - [WordPress](https://github.com/oguhpereira/learnbr/tree/main/docs/wordpress)
+
+## Contribuidores
+
+* [Gustavo Pereira](https://github.com/oguhpereira)   
+* [Claudio Sanches](https://github.com/claudiosanches)     
+* [Felipe Elia](https://github.com/felipeelia)
+* [Felipe Mendes](https://github.com/felipemendes)
+* [Melissa Barbosa](https://github.com/mellbarbosa)
+* [Rickson Oliveira](https://github.com/ricksonoliveira)
+* [Alex Alves](https://github.com/alexalvess)

@@ -87,14 +87,5 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 [Ir para o índice](#Índice)
 
-## Time
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Gustavo Pereira](https://github.com/oguhpereira)   
-* [Claudio Sanches](https://github.com/claudiosanches)     
-* [Felipe Elia](https://github.com/felipeelia)
-
-
 
 <h6 align="center"><a href="/LICENSE">MIT</a> @ Learn Br</h6>

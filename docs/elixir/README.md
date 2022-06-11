@@ -74,15 +74,6 @@ Nome do Podcast | Idioma
 * [koans](http://elixirkoans.io/)
 * [exercism](https://exercism.io/tracks/elixir)
 
-
-## Time
-
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Gustavo Pereira](https://github.com/oguhpereira)
-* [Rickson Oliveira](https://github.com/ricksonoliveira)
-
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
 	©

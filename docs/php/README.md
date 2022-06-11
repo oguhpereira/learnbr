@@ -40,12 +40,6 @@
 * [HTML e CSS - LearnBR](https://github.com/learnbr/html-css)
 
 
-## Time
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Gustavo Pereira](https://github.com/oguhpereira)
-
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
 	©
